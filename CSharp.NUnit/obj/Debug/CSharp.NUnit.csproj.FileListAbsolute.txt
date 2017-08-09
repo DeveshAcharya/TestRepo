@@ -1,0 +1,11 @@
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\CSharp.NUnit.dll
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\CSharp.NUnit.pdb
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\nunit.framework.dll
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\TickSpec.dll
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\FSharp.Core.dll
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\TickSpec.pdb
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\TickSpec.xml
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\bin\Debug\FSharp.Core.xml
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\obj\Debug\CSharp.NUnit.csprojResolveAssemblyReference.cache
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\obj\Debug\CSharp.NUnit.dll
+C:\git\TickSpec\Examples\ByFramework\NUnit\CSharp.NUnit\obj\Debug\CSharp.NUnit.pdb
